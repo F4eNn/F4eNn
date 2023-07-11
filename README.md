@@ -18,13 +18,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,react,nextjs,firebase,git,gulp,js,ts,materialui,styledcomponents,tailwind&perline=7)](https://skillicons.dev)
 
 <br />
 
-<img width='400px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=f4enn&layout=compact' />
+<img width='400px' src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=f4enn&layout=compact' />
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=f4enn&show_icons=true)
+![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=f4enn&show_icons=true)
 
 
 
