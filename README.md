@@ -5,6 +5,7 @@
 
  - 🚧 Currently working on [Ink-Wise](https://github.com/F4eNn/Ink-Wise)   
  - 🔬 Learning NextJs and Typescript
+ - 🎯 My second goal gonna be Node.js 
  - 👦 I'm 22yo
    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=f4enn&label=Profile%20views&color=0e75b6&style=flat" alt="f4enn" /> </p>
