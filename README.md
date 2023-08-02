@@ -20,7 +20,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,react,nextjs,firebase,git,gulp,js,ts,materialui,styledcomponents,tailwind&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,react,nextjs,firebase,git,gulp,js,ts,materialui,styledcomponents,tailwind,bootstrap&perline=7)](https://skillicons.dev)
 
 <br />
 
