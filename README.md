@@ -13,7 +13,8 @@
 </br>
 <h3 align="left">Connect with me:</h3>
 
-- 📫 **mateusz4k@outlook.com** 
+- 📫 **mateusz4k@outlook.com**
+- <img align='center' src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /> <span>4_4</span>
 </br>
 
 <h3>My best project:</h3>
