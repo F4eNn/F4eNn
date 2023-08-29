@@ -3,7 +3,7 @@
 
 <h2>About me</h2>
 
- - 🚧 Currently working on [Invoices](https://github.com/F4eNn/Invoices)   
+ - 🚧 Currently working on [Audiophile](https://github.com/F4eNn/Audiophile)   
  - 🔬 Learning NextJs and Typescript
  - 🎯 My second goal gonna be Node.js 
  - 👦 I'm 22yo
