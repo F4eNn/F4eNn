@@ -15,7 +15,9 @@
 
 - 📫 **mateusz4k@outlook.com**
 
-- [<img align='center' src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />](https://discord.com/users/992404385705513010) <span>4_4</span>
+- <a href="https://discord.com/users/992404385705513010">
+  <img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
 </br>
 
 <h3>My best projects:</h3>
