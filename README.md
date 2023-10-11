@@ -7,10 +7,22 @@
  - 🔬 Learning NextJs and Typescript
  - 🎯 My second goal gonna be Node.js 
  - 👦 I'm 22yo
+
+<br />
+
+<a href="https://github.com/F4eNn/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=F4eNn&style=for-the-badge&color=blueviolet">
+</a>
+
+
+
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/F4eNn/github-profile-views-counter
+
+![](https://hit.yhype.me/github/profile?user_id=1849174)
    
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=f4enn&label=Profile%20views&color=0e75b6&style=flat" alt="f4enn" /> </p>
-   <img width='400px' align='right' src='https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966' />
-</br>
+<br /> 
+
 <h3 align="left">Connect with me:</h3>
 
 - 📫 **mateusz4k@outlook.com**
