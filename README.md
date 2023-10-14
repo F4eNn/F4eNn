@@ -36,6 +36,7 @@
 
 </br>
 
+ - <p><a href="https://github.com/F4eNn/Audiophile" target="_blank">🎵🎶 Audiophile 🎶</a></p>
  - <p ><a target="_blank" href="https://ink-wise.vercel.app/">🔥✨ Ink-Wise ✨🔥</a></p>
  - <p ><a target="_blank" href="https://invoices-eight.vercel.app/register?mode=login">🎉💕 Invoices 💕🎉</a></p>
 
