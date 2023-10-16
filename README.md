@@ -3,9 +3,9 @@
 
 <h2>About me</h2>
 
- - 🚧 Currently working on [Audiophile](https://github.com/F4eNn/Audiophile)   
- - 🔬 Learning NextJs and Typescript
- - 🎯 My second goal gonna be Node.js 
+ 
+ - 🔬 Learning Node.js + Typescript
+ - 🎯 My second goal gonna be Express.js and Fastify or NestJS
  - 👦 I'm 22yo
 
 <br />
