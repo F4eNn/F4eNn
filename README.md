@@ -4,8 +4,8 @@
 <h2>About me</h2>
 
  
- - 🔬 Learning Node.js + Typescript
- - 🎯 My second goal gonna be Express.js and Fastify or NestJS
+ - 🔬 Learning Node.js(express) + Typescript
+ - 🎯 My second goal gonna be and Fastify or NestJS
  - 👦 I'm 22yo
 
 <br />
