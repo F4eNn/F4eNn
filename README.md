@@ -7,7 +7,7 @@
  - 🔬 Learning Node.js(express) + Typescript
  - 🎯 My second goal gonna be and Fastify or NestJS
  - 🤖 AI and ML sound awesome. In the meantime, I'm delving deeper into this world
- - 👦 I'm 22yo
+ - 👦 I'm 23yo
 
 <br />
 
