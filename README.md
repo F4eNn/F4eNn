@@ -3,8 +3,8 @@
 
 <h2>About me</h2>
 
- - 🔨 currently working on this <a href="https://github.com/F4eNn/mrg-webpage">webpage + blog</a> biggest commercial project for me 
- - 🔬 Learning Node.js(express) + Typescript
+
+ - 🔬 Learning Vue
  - 🎯 My second goal gonna be and Fastify or NestJS
  - 🤖 AI and ML sound awesome. In the meantime, I'm delving deeper into this world
  - 👦 I'm 23yo
