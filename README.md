@@ -3,8 +3,13 @@
 
 <h2>About me</h2>
 
- - 🤖 AI and ML sound awesome. In the meantime, I'm delving deeper into this world
- - 👦 I'm 23yo
+`git config --global user.name "Mateusz Kołodziej"`
+
+`git config --global user.email "mateusz4k@outlook.com"`
+
+`git config --global user.age "24"`
+ 
+ 
 
 <br />
 
