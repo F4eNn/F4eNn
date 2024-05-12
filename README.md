@@ -48,7 +48,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=sass,react,nextjs,firebase,git,gulp,js,ts,express,redux,pinia,mongodb,vue,tailwind,nodejs,linux&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sass,react,nextjs,firebase,git,gulp,js,ts,express,redux,pinia,mongodb,vue,tailwind,nodejs,linux,prisma,mysql&perline=7)](https://skillicons.dev)
 
 <br />
 
