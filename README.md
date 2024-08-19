@@ -48,11 +48,11 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=sass,react,nextjs,firebase,git,gulp,js,ts,express,redux,pinia,mongodb,vue,tailwind,nodejs,linux,prisma,mysql&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sass,react,nextjs,firebase,git,gulp,js,ts,express,redux,pinia,mongodb,vue,tailwind,nodejs,linux,prisma,php,mysql&perline=7)](https://skillicons.dev)
 
 <br />
 
-<img width='400px' src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=f4enn&layout=compact' />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F4eNn&layout=compact)
 
 ![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=f4enn&show_icons=true)
 
