@@ -48,7 +48,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,git,gulp,js,ts,express,vue,tailwind,nodejs,linux,php,mysql&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,ts,express,vue,tailwind,nodejs,linux,php,mysql&perline=7)](https://skillicons.dev)
 
 <br />
 
