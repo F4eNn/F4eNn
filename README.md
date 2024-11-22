@@ -1,6 +1,8 @@
 ![Master Head](https://img.freepik.com/free-vector/sunset-landscape-with-lake-clouds-red-sky-silhouettes-hills-trees-coast_107791-4670.jpg?w=1380&t=st=1688898800~exp=1688899400~hmac=3bad38351a9d89c8e574e511289be7221639568a4abcc19e4c882a1cb0e742a8)
 <h1 align="center">Hello😄👋</h1>
 
+<p align="center">...a computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match... ~ Bill Bryson </p>
+
 <h2>About me</h2>
 
 `git config --global user.name "Mateusz Kołodziej"`
